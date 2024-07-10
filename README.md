@@ -1,2 +1,2 @@
 # git-Github
-For first practice.
+For first deep practice.
